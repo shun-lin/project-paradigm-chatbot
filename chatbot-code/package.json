@@ -1,0 +1,25 @@
+{
+  "name": "cryptonews-chatbot",
+  "version": "1.0.0",
+  "description": "The webhook for Data-X Parigm Team Spring 2019 messenger chatbot.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js | bash ./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+  },
+  "author": "Shun Lin and Team",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0",
+    "newsapi": "^2.4.0",
+    "najax": "^1.0.4"
+  },
+  "engines": {
+    "node": "10"
+  }
+}
