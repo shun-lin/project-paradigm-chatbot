@@ -1,4 +1,4 @@
-# Deep Synthetic Feature Engineering for Cryptocurrency News
+# Project Paradigm Chatbot
 
 ## Introduction
 We are exploring different Machine Learning techniques and models to extract deep synthetic features from news article about cryptocurrencies to predict the impact of news article on price movement and also the empirical rankings of news article base on potential impact to reduce the time and effort it takes for traders and the public to find news that are important.
